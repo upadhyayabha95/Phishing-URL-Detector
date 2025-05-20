@@ -1,1 +1,1 @@
-# Phishing-URL-Detector
+# A phishing site classifier using RandomForest + dataset + result dashboard
